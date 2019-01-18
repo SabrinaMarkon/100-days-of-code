@@ -1,13 +1,12 @@
 # 100 Days Of Code - Log
 
 ### Day 0: January 17, 2019 - Thursday
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Finished SASS section of FreeCodeCamp
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I find things easy to learn like this, but then forget the syntax afterward when I am not actively using it, which is frustrating.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** https://learn.freecodecamp.org/
 
 ### Day 1: January 18, 2019 - Friday
 ##### (delete me or comment me out)
