@@ -6,16 +6,15 @@
 
 **Thoughts:** I find things easy to learn like this, but then forget the syntax afterward when I am not actively using it, which is frustrating.
 
-**Link to work:** https://learn.freecodecamp.org/
+**Link to work:** (https://learn.freecodecamp.org/)
 
 ### Day 1: January 18, 2019 - Friday
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Review Redux.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I was working on PHP so much lately, that I haven't looked at Redux in awhile, so am practicing Redux with FCC exercises, and am going to do the Random Quote App tomorrow using React & Redux, so I've created a pen for this.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [FCC Random Quote App](https://codepen.io/PHPSiteScripts/pen/ZVgzEb)
 
 
 ### Day 2: January 18, 2019 - Saturday 
@@ -24,6 +23,4 @@
 
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**: [FCC Random Quote App](https://codepen.io/PHPSiteScripts/pen/ZVgzEb
