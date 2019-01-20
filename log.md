@@ -19,8 +19,8 @@
 
 ### Day 2: January 18, 2019 - Saturday 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Finished Redux exercises on FCC (again as a review). Used Object.assign and the spread operator to add or remove from a copy of state.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: I sometimes find making a copy of state confusing in silly ways. 
 
 **Link(s) to work**: [FCC Random Quote App](https://codepen.io/PHPSiteScripts/pen/ZVgzEb
