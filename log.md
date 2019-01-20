@@ -17,10 +17,22 @@
 **Link(s) to work**: [FCC Random Quote App](https://codepen.io/PHPSiteScripts/pen/ZVgzEb)
 
 
-### Day 2: January 18, 2019 - Saturday 
+### Day 2: January 19, 2019 - Saturday 
 
 **Today's Progress**: Finished Redux exercises on FCC (again as a review). Used Object.assign and the spread operator to add or remove from a copy of state.
 
 **Thoughts**: I sometimes find making a copy of state confusing in silly ways. 
 
 **Link(s) to work**: [FCC Random Quote App](https://codepen.io/PHPSiteScripts/pen/ZVgzEb
+
+
+### Day 3: January 20, 2019 - Sunday 
+
+**Today's Progress**: Finished Redux exercises on FCC (again as a review). Used Object.assign and the spread operator to add or remove from a copy of state
+
+**Thoughts**: 
+
+**Link(s) to work**: [FCC Random Quote App](https://codepen.io/PHPSiteScripts/pen/ZVgzEb
+
+
+
